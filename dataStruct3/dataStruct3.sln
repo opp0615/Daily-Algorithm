@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dataStruct3", "dataStruct3\dataStruct3.vcxproj", "{7AAF8F82-F340-4AD4-A14A-CFA7D688920F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AAF8F82-F340-4AD4-A14A-CFA7D688920F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7AAF8F82-F340-4AD4-A14A-CFA7D688920F}.Debug|Win32.Build.0 = Debug|Win32
+		{7AAF8F82-F340-4AD4-A14A-CFA7D688920F}.Release|Win32.ActiveCfg = Release|Win32
+		{7AAF8F82-F340-4AD4-A14A-CFA7D688920F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

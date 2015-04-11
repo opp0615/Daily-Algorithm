@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 
-int searchSecondOne(int arry[],int size);
+int searchSecondOne(int* arry,int size);
 
 int callTimes = 0;//È£Ãâ È½¼ö
 int global_n=0;
@@ -79,12 +79,13 @@ int searchSecondOne(int* arry, int size)
 
 	free(leftArry);
 	free(rightArry);
-
+	
+	/*
 	if(size == global_n)
 	{
 		return leftOne < rightOne ? leftOne : rightOne;
 	}
-
+	*/
 
 	return leftOne > rightOne ? leftOne : rightOne;
 }

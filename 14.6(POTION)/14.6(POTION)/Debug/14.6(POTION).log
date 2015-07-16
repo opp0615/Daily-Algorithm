@@ -1,0 +1,14 @@
+﻿빌드 시작: 2015-07-16 오전 11:11:06
+     1>2 노드의 "D:\bulids\14.6(POTION)\14.6(POTION)\14.6(POTION).vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt maincpp.cpp
+         maincpp.cpp
+     1>d:\bulids\14.6(potion)\14.6(potion)\maincpp.cpp(3): warning C4081: 'newline'이(가) 있어야 하는데 ';'이(가) 있습니다.
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\bulids\14.6(POTION)\Debug\14.6(POTION).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\bulids\14.6(POTION)\Debug\14.6(POTION).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\bulids\14.6(POTION)\Debug\14.6(POTION).lib" /MACHINE:X86 Debug\maincpp.obj
+         14.6(POTION).vcxproj -> D:\bulids\14.6(POTION)\Debug\14.6(POTION).exe
+     1>"D:\bulids\14.6(POTION)\14.6(POTION)\14.6(POTION).vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.28
